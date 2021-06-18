@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: guessing_game
+  annotations:
+    github.com/project-slug: cesaribeiro/guessing_game
+spec:
+  type: other
+  lifecycle: unknown
+  owner: escalabilidade
